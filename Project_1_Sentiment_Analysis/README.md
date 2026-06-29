@@ -1,7 +1,7 @@
 # Sentiment Analysis System (NLP)
 ### Oasis Infobyte Data Analytics Internship - Project 1 (Level 1)
-**Intern:** Jasmin  
-**Domain:** Data Analytics & NLP Engineering
+**Intern:** Jasmin Jamadar  
+**Role:** Data Analyst Intern
 
 ---
 

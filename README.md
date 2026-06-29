@@ -3,7 +3,7 @@
 ### Completed Projects Showcase
 
 **Intern:** Jasmin Jamadar\
-**Role:** Data Analytics Intern\
+**Role:** Data Analyst Intern\
 **Internship Period:** June 2026
 
 ---

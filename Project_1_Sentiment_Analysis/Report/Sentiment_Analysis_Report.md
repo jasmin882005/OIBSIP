@@ -2,7 +2,7 @@
 
 ### Oasis Infobyte Data Analytics Internship (Project 1 - Level 1)
 
-**Author:** Jasmin Jamadar **Role:** Data Analytics Intern\
+**Author:** Jasmin Jamadar **Role:** Data Analyst Intern\
 **Submission Date:** June 2026
 
 ---

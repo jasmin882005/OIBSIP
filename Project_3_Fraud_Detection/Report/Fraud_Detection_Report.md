@@ -1,7 +1,7 @@
 # PROJECT REPORT: CREDIT CARD FRAUD DETECTION USING MACHINE LEARNING
 ### Oasis Infobyte Data Analytics Internship (Project 3 - Level 2)
 **Author:** Jasmin Jamadar  
-**Role:** Data Analytics Intern  
+**Role:** Data Analyst Intern  
 **Submission Date:** June 2026
 
 ---

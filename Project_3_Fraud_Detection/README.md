@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection using Machine Learning
 ### Oasis Infobyte Data Analytics Internship - Project 3 (Level 2)
 **Intern:** Jasmin Jamadar  
-**Domain:** Data Analytics & ML Engineering
+**Role:** Data Analyst Intern
 
 ---
 

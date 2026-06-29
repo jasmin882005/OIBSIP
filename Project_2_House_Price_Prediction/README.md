@@ -1,7 +1,7 @@
 # House Price Prediction using Linear Regression
 ### Oasis Infobyte Data Analytics Internship - Project 2 (Level 2)
-**Intern:** Jasmin  
-**Domain:** Data Analytics & Machine Learning
+**Intern:** Jasmin Jamadar  
+**Role:** Data Analyst Intern
 
 ---
 
