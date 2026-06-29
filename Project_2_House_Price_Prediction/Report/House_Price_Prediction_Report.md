@@ -9,7 +9,7 @@ June 2026
 
 ## 1. Executive Summary
 
-This report presents a structured analysis and machine learning implementation
+This report presents a structured analysis and data modeling implementation
 to predict residential house prices in the Delhi region. Real estate valuations
 are traditionally complex, driven by a combination of physical dimensions,
 structural specifications, available amenities, and local market trends.

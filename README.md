@@ -44,7 +44,7 @@ The entire portfolio is implemented in **Python** using the following scientific
 libraries:
 
 - **Data Manipulation:** `Pandas`, `NumPy`
-- **Machine Learning:** `Scikit-Learn`
+- **Data Modeling:** `Scikit-Learn`
 - **Natural Language Processing (NLP):** `NLTK`, `WordCloud`
 - **Data Visualization:** `Matplotlib`, `Seaborn`
 - **Statistical Analysis:** `Statsmodels`
@@ -94,7 +94,7 @@ cd OIBSIP_Jasmin
 ### 2. Install Dependencies
 
 Ensure you have Python 3.8+ installed. Install all necessary scientific and
-machine learning libraries using pip:
+data modeling libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn nltk wordcloud scikit-learn
@@ -127,7 +127,7 @@ several core competencies in Data Science and NLP:
    cleaning, and stopword-removal pipeline using NLTK, converting unstructured
    text into dense TF-IDF matrices to train highly accurate classification
    models.
-4. **Portfolio Documentation**: Practiced writing formal machine learning
+4. **Portfolio Documentation**: Practiced writing formal data modeling
    reports and detailed READMEs to communicate complex analytic results clearly
    to business stakeholders and technical recruiters.
 

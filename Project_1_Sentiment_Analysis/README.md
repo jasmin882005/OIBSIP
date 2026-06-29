@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Project Overview
-This repository contains a complete, submission-grade **Sentiment Analysis System** built during the Oasis Infobyte Data Analytics Internship. The primary objective is to process, analyze, and build a machine learning pipeline that classifies unstructured text data (tweets) into three sentiment categories:
+This repository contains a complete, submission-grade **Sentiment Analysis System** built during the Oasis Infobyte Data Analytics Internship. The primary objective is to process, analyze, and build a data modeling pipeline that classifies unstructured text data (tweets) into three sentiment categories:
 *   **Positive (1)**
 *   **Neutral (0)**
 *   **Negative (-1)**

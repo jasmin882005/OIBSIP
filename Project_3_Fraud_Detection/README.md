@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection using Machine Learning
+# Credit Card Fraud Detection using Data Analytics
 ### Oasis Infobyte Data Analytics Internship - Project 3 (Level 2)
 **Intern:** Jasmin Jamadar  
 **Role:** Data Analyst Intern
@@ -6,9 +6,9 @@
 ---
 
 ## 📌 Project Overview
-This repository contains the third project of the Oasis Infobyte Data Analytics Internship: a **Credit Card Fraud Detection System**. The project addresses one of the most critical challenges in financial machine learning—handling severe class imbalance (where only **0.17%** of transactions are fraudulent). 
+This repository contains the third project of the Oasis Infobyte Data Analytics Internship: a **Credit Card Fraud Detection System**. The project addresses one of the most critical challenges in financial data modeling—handling severe class imbalance (where only **0.17%** of transactions are fraudulent). 
 
-Using the Kaggle Credit Card Fraud Detection dataset (containing **283,726 transactions** after duplicate cleaning), we build, compare, and evaluate two distinct machine learning models:
+Using the Kaggle Credit Card Fraud Detection dataset (containing **283,726 transactions** after duplicate cleaning), we build, compare, and evaluate two distinct predictive models:
 1.  **Logistic Regression** (baseline linear classifier)
 2.  **Random Forest Classifier** (non-linear ensemble tree model)
 
@@ -79,7 +79,7 @@ jupyter notebook Fraud_Detection.ipynb
 
 ---
 
-## 🧠 Machine Learning Pipeline
+## 🧠 Data Modeling Pipeline
 ```mermaid
 graph TD
     A[Raw creditcard.csv] --> B[Data Quality Control & Duplicate Removal]

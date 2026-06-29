@@ -55,7 +55,7 @@ Project_2_House_Price_Prediction
 *   **Language:** Python 3.8+
 *   **Data Wrangling:** Pandas, NumPy
 *   **Visualization:** Matplotlib, Seaborn
-*   **Machine Learning:** Scikit-Learn
+*   **Data Modeling:** Scikit-Learn
 *   **Diagnostics:** Statsmodels (for VIF / diagnostic analyses)
 
 ### Installation

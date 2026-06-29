@@ -7,7 +7,7 @@
 ---
 
 ## 1. Executive Summary
-This report presents a comparative machine learning study to build a Credit Card Fraud Detection System. Financial fraud accounts for billions of dollars in annual losses. Detecting fraudulent transactions in real-time is a core priority for banking institutions. However, the task is characterized by an extreme class imbalance, as fraudulent transactions represent a tiny fraction (under **0.17%**) of total volume.
+This report presents a comparative data analytics study to build a Credit Card Fraud Detection System. Financial fraud accounts for billions of dollars in annual losses. Detecting fraudulent transactions in real-time is a core priority for banking institutions. However, the task is characterized by an extreme class imbalance, as fraudulent transactions represent a tiny fraction (under **0.17%**) of total volume.
 
 Using a dataset of **284,807 transactions** (`creditcard.csv`), we built an NLP-style tabular preprocessing and modeling pipeline. Data cleaning involved the detection and deletion of **1,081 duplicate rows**, resulting in **283,726 unique transactions** containing PCA-transformed features (V1-V28), transaction Time, and Amount. The dataset was partitioned using a stratified 80% train / 20% test split. Continuous columns `Time` and `Amount` were scaled using `RobustScaler`. To prevent majority class bias, the training set was under-sampled, creating a balanced 50/50 training subset (756 samples).
 
